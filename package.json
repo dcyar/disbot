@@ -15,10 +15,10 @@
   "author": "Jhon Achata Limachi",
   "license": "ISC",
   "devDependencies": {
-    "dotenv": "^16.4.1",
     "nodemon": "^3.0.3"
   },
   "dependencies": {
+    "dotenv": "^16.4.1",
     "commandkit": "^0.1.10",
     "discord.js": "^14.14.1",
     "node-cron": "^3.0.3"
